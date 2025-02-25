@@ -37,7 +37,7 @@ VCS: they track changes to source code and help coordinate work among team membe
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 CHALLENGES 
-Changing requirements 
+Changing requirements.
 Tight deadlines 
 Technical debts
 STRATEGIES FOR THE CHALLENGES 
